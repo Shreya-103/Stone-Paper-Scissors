@@ -24,8 +24,8 @@ The computer randomly picks one too
 
 The winner is decided based on classic rules:
 
-Stone beats Scissors
-Scissors beats Paper
+Stone beats Scissors <br>
+Scissors beats Paper <br>
 Paper beats Stone
 
 The result is displayed instantly and you have a scoreboard too to check who win the game!

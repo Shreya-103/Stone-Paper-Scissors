@@ -47,11 +47,41 @@ h1{
 #msg{
     background-color: #081b31;
     color: #ffff;
-    /* height: 5rem;
-     */
+    height: 5rem;
+    
      font-size: 2rem;
      margin-top: 2rem;
      display: inline;
     padding: 1rem;
     border-radius: 1rem;
     }
+@media(max-width: 496px){
+   .choice{
+    height: 5rem;
+    width: 5rem;
+    font-size: 5rem;
+    border-radius: 50%;
+}
+
+.choices{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+#msg{
+    display: block;
+    /* padding: 0; */
+    margin-top: 2rem;
+
+}
+.msg-box{
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+}

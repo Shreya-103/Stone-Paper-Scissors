@@ -1,6 +1,7 @@
 <h1>🪨📄✂️ Stone Paper Scissors Game</h1>
 Welcome to the classic Stone Paper Scissors (aka Rock Paper Scissors) game — brought to life with simple and fun web technologies!
 
+<a href="shreya-103.github.io/Stone-Paper-Scissors"> Try it here </a>
 <h3>🎮 Play. Compete. Win. Or... Try Again!</h3>
 
 <h3>🌟 Features</h3>

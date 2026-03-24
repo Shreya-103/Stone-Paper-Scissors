@@ -76,6 +76,7 @@ h1{
     display: block;
     /* padding: 0; */
     margin-top: 2rem;
+    font-size: 1.25rem;
 
 }
 .msg-box{
@@ -83,5 +84,9 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+h1{
+    font-size: 1.2rem;
+    font-weight: 400;
 }
 }
